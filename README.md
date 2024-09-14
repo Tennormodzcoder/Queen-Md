@@ -87,7 +87,7 @@
 ### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Clikc here](https://github.com/TENNORMODZ/QUEEN-MD/blob/main/LICENSE)
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-### 💠 [`𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 𝙁𝙊𝙍 𝙋𝙍𝙄𝙉𝘾𝙀 𝘽𝙊𝙏`]
+### 💠 [`𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 𝙁𝙊𝙍 𝙌𝙐𝙀𝙀𝙉 𝘽𝙊𝙏`]
 #### 🌐 Arabic = ar 
 #### 🌐 Urdu = ur
 #### 🌐 English Global = en
