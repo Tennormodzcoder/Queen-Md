@@ -7,25 +7,25 @@
  
  <p align="center">  
   <a href="">
-    <img alt="QUEEN" width="600" height="350" src="https://i.imgur.com/iI086tX.jpeg">
+    <img alt="QUEEN" width="600" height="350" src="https://telegra.ph/file/0f5c8ecc4fa05336be42d.jpg">
   </a>
 </p>
 
 
 
 <p align="center">
-<a href="https://github.com/PRINCE-GDS/QUEEN-MD"><img title="Author" src="https://img.shields.io/badge/𝐐𝐔𝐄𝐄𝐍 𝑴𝑫 𝑩𝑶𝑻-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/TENNORMODZ/QUEEN-MD"><img title="Author" src="https://img.shields.io/badge/𝐐𝐔𝐄𝐄𝐍 𝑴𝑫 𝑩𝑶𝑻-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
-<a href="https://github.com/PRINCE-GDS?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/PRINCE-GDS?label=Followers&style=social"></a>
-<a href="https://github.com/PRINCE-GDS/PRINXE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/PRINCE-GDS/PRINCE-MD-BOT?&style=social"></a>
-<a href="https://github.com/PRINCE-GDS/PRINXE-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/PRINCE-GDS/PRINXE-MD?style=social"></a>
-<a href="https://github.com/PRINCE-GDS/PRINXE-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-GDS/PRINXE-MD?label=Watching&style=social"></a>
+<a href="https://github.com/Tennormodz?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Tennormodz?label=Followers&style=social"></a>
+<a href="https://github.com/TENNORMODZ/QUEEN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tennormodz/QUEEN-MD-BOT?&style=social"></a>
+<a href="https://github.com/TENNORMODZ/QUEEN-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/TENNORMODZ/QUEEN-MD?style=social"></a>
+<a href="https://github.com/TENNORMODZ/QUEEN-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TENNORMODZ/QUEEN-MD?label=Watching&style=social"></a>
 </p>
 
 
- <h1 align="center">💠𝑷𝑹𝑰𝑵𝑪𝑬-𝑴𝑫-𝑩𝑶𝑻💠</h1>
+ <h1 align="center">💠𝐐𝐔𝐄𝐄𝐍-𝑴𝑫-𝐁𝐎𝐓💠</h1>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
