@@ -1,5 +1,5 @@
   
-![PRINXE-MD](https://readme-typing-svg.demolab.com?font=Garamond&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=HELLO+EVERYONE👋🏻;WELCOME+TO+PRINCE+MD+💙)
+![PRINXE-MD](https://readme-typing-svg.demolab.com?font=Garamond&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=HELLO+EVERYONE👋🏻;WELCOME+TO+QUEEN+MD+💙)
   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -7,14 +7,14 @@
  
  <p align="center">  
   <a href="">
-    <img alt="PRINCE" width="600" height="350" src="https://i.imgur.com/iI086tX.jpeg">
+    <img alt="QUEEN" width="600" height="350" src="https://i.imgur.com/iI086tX.jpeg">
   </a>
 </p>
 
 
 
 <p align="center">
-<a href="https://github.com/PRINCE-GDS/PRINXE-MD"><img title="Author" src="https://img.shields.io/badge/𝑷𝑹𝑰𝑵𝑪𝑬 𝑴𝑫 𝑩𝑶𝑻-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/PRINCE-GDS/QUEEN-MD"><img title="Author" src="https://img.shields.io/badge/𝐐𝐔𝐄𝐄𝐍 𝑴𝑫 𝑩𝑶𝑻-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
