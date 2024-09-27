@@ -34,7 +34,7 @@
 
 ### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 1 ⛔ on fixing process....
 <p align="left">
-<a href="https://prince-bot-pairing-code.onrender.com"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-skyblue?style=for-the-badge&logo=render"></a>
+<a href="https://new-pair-code-princebotz.onrender.com/"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-skyblue?style=for-the-badge&logo=render"></a>
 <p/>
 
 ### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 2 ⛔ on fixing process...
