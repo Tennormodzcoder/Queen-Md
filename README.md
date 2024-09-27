@@ -39,7 +39,7 @@
 
 ### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 2 ✅ .
 <p align="left">
-<a href="https://new-pair-code-prinxebotz.onrender.com/"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-green?style=for-the-badge&logo=render"></a>
+<a href="https://new-pair-code-princebotz.onrender.com/"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-green?style=for-the-badge&logo=render"></a>
 <p/>
 
 ### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 3 🚫 not working for now
