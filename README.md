@@ -39,10 +39,10 @@
 
 ### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 2 ✅ .
 <p align="left">
-<a href="https://comparative-etti-secktor-455a93b0.koyeb.app/"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-green?style=for-the-badge&logo=render"></a>
+<a href="https://new-pair-code-prinxebotz.onrender.com/"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-green?style=for-the-badge&logo=render"></a>
 <p/>
 
-### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 3 ✅
+### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 3 🚫 not working for now
 <p align="left">
 <a href="https://pairing-code-7oa0.onrender.com/"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-red?style=for-the-badge&logo=render"></a>
 <p/>
