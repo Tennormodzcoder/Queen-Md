@@ -65,7 +65,7 @@
 
 ### <br>
 <p align="left">
-<a href="https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FPRINCE-GDS%2FPRINXE-MD"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗥𝗘𝗡𝗗𝗘𝗥-E6E6FA?style=for-the-badge&logo=render"></a>
+<a href="https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FTENNORMODZCODER%2FQUEEN-MD"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗥𝗘𝗡𝗗𝗘𝗥-E6E6FA?style=for-the-badge&logo=render"></a>
 <p/>
 
 ### <br>
