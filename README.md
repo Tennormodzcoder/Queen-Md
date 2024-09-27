@@ -14,14 +14,14 @@
 
 
 <p align="center">
-<a href="https://github.com/TENNORMODZ/QUEEN-MD"><img title="Author" src="https://img.shields.io/badge/𝐐𝐔𝐄𝐄𝐍 𝑴𝑫 𝑩𝑶𝑻-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/TENNORMODZCODER/QUEEN-MD"><img title="Author" src="https://img.shields.io/badge/𝐐𝐔𝐄𝐄𝐍 𝑴𝑫 𝑩𝑶𝑻-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
-<a href="https://github.com/Tennormodz?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Tennormodz?label=Followers&style=social"></a>
-<a href="https://github.com/TENNORMODZ/QUEEN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tennormodz/QUEEN-MD-BOT?&style=social"></a>
-<a href="https://github.com/TENNORMODZ/QUEEN-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/TENNORMODZ/QUEEN-MD?style=social"></a>
-<a href="https://github.com/TENNORMODZ/QUEEN-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TENNORMODZ/QUEEN-MD?label=Watching&style=social"></a>
+<a href="https://github.com/Tennormodzcoder?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Tennormodzcoder?label=Followers&style=social"></a>
+<a href="https://github.com/TENNORMODZCODER/QUEEN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tennormodz/QUEEN-MD-BOT?&style=social"></a>
+<a href="https://github.com/TENNORMODZCODER/QUEEN-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/TENNORMODZCODER/QUEEN-MD?style=social"></a>
+<a href="https://github.com/TENNORMODZCODER/QUEEN-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TENNORMODZCODER/QUEEN-MD?label=Watching&style=social"></a>
 </p>
 
 
@@ -54,7 +54,7 @@
  
 ### <br>
 <p align="left">
-<a href="https://heroku.com/deploy?template=https://github.com/PRINCE-GDS/PRINXE-MD"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/TENNORMODZCODER/QUEEN-MD"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render"></a>
 <p/>
  
 
@@ -84,7 +84,7 @@
        
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Clikc here](https://github.com/TENNORMODZ/QUEEN-MD/blob/main/LICENSE)
+### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Clikc here](https://github.com/TENNORMODZCODER/QUEEN-MD/blob/main/LICENSE)
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ### 💠 [`𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 𝙁𝙊𝙍 𝙌𝙐𝙀𝙀𝙉 𝘽𝙊𝙏`]
